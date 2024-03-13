@@ -28,3 +28,6 @@ width: 150%;
 .halter{
 width: 150%;
 }
+.introducao{
+display: flex;
+}
