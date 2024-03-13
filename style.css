@@ -16,15 +16,15 @@ justify-content: space-around;
 /*https://www.figma.com/file/q9FnAMdvpvCbQCTrAH56WU/Untitled?type=design&node-id=0-1&mode=design&t=obhbsYWlYw4VWHiA-0*/
 
 
-#whey{
+.whey{
     width: 250%;
 }
-#strap{
+.strap{
 width: 150%;
 }
-#roupas{
+.roupas{
 width: 150%;
 }
-#halter{
+.halter{
 width: 150%;
 }
